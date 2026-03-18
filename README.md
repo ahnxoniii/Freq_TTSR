@@ -2,6 +2,7 @@
 
 This repository is the official PyTorch implementation of **"Improved Reference-Based Super-Resolution with Frequency Information Fusion"**  
 This paper published 한국멀티미디어학회논문지 (ISSN: 1229-7771), 제29권, 2호, 2026.02
+https://doi.org/10.9717/kmms.2026.29.2.183
 
 
 ----
